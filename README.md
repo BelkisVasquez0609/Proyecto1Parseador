@@ -1,6 +1,6 @@
 # Proyecto #1 Parseador - Belkis Vásquez 1085273
 
-##Proceso
+## Proceso
 1. Descargar ANTLR4 plugin para Visual Studio Code
 2. Descargar Java JDK versión 11 o mayor
 3. Configurar en el settings.json 
