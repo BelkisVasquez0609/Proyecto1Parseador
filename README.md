@@ -6,7 +6,7 @@
 3. Configurar en el settings.json 
 4. Crear un proyecto de consola c# en Visual Studio
 5. Abrir el proyecto de consola en Visual Studio Code
-6. Crear el archivo con extensión .g4
+6. Crear el archivo con extensión .g4 Y añadir la gramatica
 - Se generaran los archivos necesarios
 7. Incorporar esos archivos en la visualización de la solución de Visual Studio
 8. Agregar el NUGGET de ANTLR4.Runtime.Standar 4.9.2 (Porque los archivos estan generados en esa versión)
